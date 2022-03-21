@@ -18,7 +18,7 @@
 ---
 ### :man_technologist: About Me :
 
-QA Engineer is looking for new challanges <img src="https://media.giphy.com/media/2kXLNQypdX9O1A3zxX/giphy.gif="30"/>
+QA Engineer is looking for new challanges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a QA Engineer,but also deal with back-end.
 - :athletic_shoe: Young Sneakerhead.
 ---
@@ -26,10 +26,8 @@ QA Engineer is looking for new challanges <img src="https://media.giphy.com/medi
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/shaxxxob/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
