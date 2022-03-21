@@ -12,12 +12,12 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
 
 QA Engineer is looking for new challanges <img src="https://media.giphy.com/media/2kXLNQypdX9O1A3zxX/giphy.gif="30">
-:telescope: I’m working as a QA Engineer,but also deal with back-end and trying develop in Data Science.
-:athletic_shoe: Young Sneakerhead.
+- :telescope: I’m working as a QA Engineer,but also deal with back-end.
+- :athletic_shoe: Young Sneakerhead.
   
