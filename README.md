@@ -18,8 +18,8 @@
 ---
 ### :man_technologist: About Me :
 
-QA Engineer is looking for new challanges <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30">
-- :telescope: I’m working as a QA Engineer,but also deal with back-end.
+Positive SWE is looking for new challanges <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="30">
+- :telescope: Interested in ML, AI and cloud enginnering.
 - :athletic_shoe: Young Sneakerhead.
 ---
   
